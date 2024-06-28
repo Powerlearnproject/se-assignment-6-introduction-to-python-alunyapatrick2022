@@ -7,7 +7,7 @@ Assignment: Introduction to Python
 Instructions:
 Answer the following questions based on your understanding of Python programming. Provide detailed explanations and examples where appropriate.
 
-Questions:
+Answers:
 
 1. Python Basics:
 
@@ -15,34 +15,34 @@ Python is a high-level, general-purpose programming language that is widely used
 
 Some of its key features that make it popular among developers include:
 
-- Simplicity and Readability: 
-Python has a clean and intuitive syntax, making it easy to read and write code. This makes it an excellent choice for beginners and experienced developers alike.
+- Simplicity and Readability:
+  Python has a clean and intuitive syntax, making it easy to read and write code. This makes it an excellent choice for beginners and experienced developers alike.
 
-- Versatility: 
-Python can be used for a wide range of applications, including web development, data analysis, machine learning, scientific computing, automation, and more.
+- Versatility:
+  Python can be used for a wide range of applications, including web development, data analysis, machine learning, scientific computing, automation, and more.
 
-- Cross-platform Compatibility\: 
-Python programs can run on various operating systems, including Windows, macOS, and Linux, without the need for major modifications.
+- Cross-platform Compatibility\:
+  Python programs can run on various operating systems, including Windows, macOS, and Linux, without the need for major modifications.
 
 - Large Standard Library:
- Python comes with a vast standard library that provides a wide range of functionalities, reducing the need to write boilerplate code.
+  Python comes with a vast standard library that provides a wide range of functionalities, reducing the need to write boilerplate code.
 
 - Dynamic Typing:
- Python is a dynamically-typed language, which means that variables can hold values of different data types without the need for explicit declarations.
+  Python is a dynamically-typed language, which means that variables can hold values of different data types without the need for explicit declarations.
 
 Use cases where Python is particularly effective include:
 
-- Data Science and Machine Learning: 
-Python's powerful data analysis and machine learning libraries, such as NumPy, Pandas, and Scikit-learn, make it a popular choice for these domains.
+- Data Science and Machine Learning:
+  Python's powerful data analysis and machine learning libraries, such as NumPy, Pandas, and Scikit-learn, make it a popular choice for these domains.
 
-- Web Development: 
-Python's web frameworks like Django and Flask are widely used for building web applications.
+- Web Development:
+  Python's web frameworks like Django and Flask are widely used for building web applications.
 
 - Automation and Scripting:
- Python's readability and extensive library support make it an excellent choice for automating tasks and writing system scripts.
+  Python's readability and extensive library support make it an excellent choice for automating tasks and writing system scripts.
 
 - Scientific Computing:
- Python's scientific computing libraries, such as NumPy and SciPy, are widely used in the fields of physics, mathematics, and engineering.
+  Python's scientific computing libraries, such as NumPy and SciPy, are widely used in the fields of physics, mathematics, and engineering.
 
 2. Installing Python:
 
@@ -72,9 +72,7 @@ Linux:
 
 Here's a simple Python program that prints "Hello, World!" to the console:
 
-
 print("Hello, World!")
-
 
 The basic syntax elements used in this program are:
 
